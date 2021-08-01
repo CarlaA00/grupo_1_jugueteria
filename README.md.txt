@@ -1,12 +1,22 @@
-Nuestro servicio brindara unna cantidad ennorme de juguetes de primera calidad
+TEMÁTICA:
+-Nuestro servicio es brindar una cantidad enorme de juguetes de primera calidad.
 
-Nuestra audiencia esta destinada a niños
+-Nuestra audiencia está destinada a niños.
 
-Nuestra pagina brinda un servicio de envio a domicilio sin cargo
+-Nuestra página brinda un servicio de envío a domicilio sin cargo.
 
+REFERENCIAS:
+-Por los productos o servicios que ofrecen y, por los clientes a los que apuntan:
+  "https://www.elmundodeljuguete.com.ar/"
+  "https://www.jugueteriassantaclaus.com/"
+  "https://www.kinderland.com.ar/"
+
+-Por la estética que presentan y, por las funcionalidades implementadas: 
+  "https://cebra.com.ar/"
+  "https://jugueteriascarrousel.com.ar/"
+  "https://tiomario.com/"
 
 INTEGRANTES:
-
 Bulgarelli Francisco:
 
-Vecces Yamila:
+Vecces Yamila: estudiante de Contador Público en la Universidad Nacional de Luján y Programación Web en Digital House junto a Fundación FORMAR.
