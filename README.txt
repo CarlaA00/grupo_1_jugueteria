@@ -17,6 +17,7 @@ REFERENCIAS:
   "https://tiomario.com/"
 
 INTEGRANTES:
-Bulgarelli Francisco:
+
+Bulgarelli Francisco: 26 años, estudiante de Tecnicatura Universitaria en Informatica en la Universidad Nacional General Sarmiento y Programación Web en Digital House junto a Fundación FORMAR.
 
 Vecces Yamila: estudiante de Contador Público en la Universidad Nacional de Luján y Programación Web en Digital House junto a Fundación FORMAR.
